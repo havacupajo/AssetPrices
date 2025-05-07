@@ -1,0 +1,6 @@
+@AssetPrices.Api_HostAddress = http://localhost:5023
+
+GET {{AssetPrices.Api_HostAddress}}/
+Accept: application/json
+
+###
